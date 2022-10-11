@@ -6,3 +6,4 @@
 <b>Team Lead:</b> Surya R <br> 
 <b>Team Members:</b> Surya K, Keshav J, Subash M.
 
+![Snake animation](https://github.com/SuryaR-25/Snake/blob/main/profile-output/github-contribution-grid-snake.svg)
