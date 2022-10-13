@@ -22,10 +22,12 @@ KESHAV J
 
 # **📜PROJECT DESCRIPTION:**
 ```html
-DHL is an international Umbrella brand and trademark for the courier, package delivery, and express mail service 
+DHL is an international Umbrella brand and trademark for the 
+courier, package delivery, and express mail service 
 which is a division of the German logistics firm Deutsche Post.
 The company group delivers over 1.6 billion parcels per year.
-The company DHL itself was founded in San Francisco, USA, in 1969 and expanded its service throughout the world by the late 1970s. 
+The company DHL itself was founded in San Francisco, USA, in 1969 and expanded 
+its service throughout the world by the late 1970s. 
 In 1979, under the name of DHL Air Cargo,the company entered the Hawaiian Islands 
 with an inter-island cargo service using two DC-3 and four DC-6 aircraft.
 Adrian Dalsey and Larry Hillblom personally oversaw the daily operations
