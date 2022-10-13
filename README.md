@@ -10,8 +10,8 @@
 
 👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
 📱  <b>Team Id: </b>PNT2022TMID24413 <br>
-📫 How to reach Us <a href = "mailto: suryarsrm@gmail.com">Connect with Email</a>
-
+📫 How to reach Us <a href = "mailto: suryarsrm@gmail.com">Connect with Email</a><br>
+![](https://komarev.com/ghpvc/?username=IBM-Project-54082-1661588854&label=PROFILE+VIEWS) 
 # **👩‍👦TEAM MEMBERS**    
 ```html                      
 SURYA R         
