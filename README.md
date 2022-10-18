@@ -5,7 +5,7 @@
  
 # IBM-Project-54082-1661588854
 # Data Analytics for DHL Logistics Facilities
-<img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="340" height="275"/>
+<img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
 </div>
 
 👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
