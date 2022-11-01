@@ -12,13 +12,20 @@
 📱  <b>Team Id: </b>PNT2022TMID24413 <br>
 📫 How to reach Us <a href = "mailto: suryarsrm@gmail.com">Connect with Email</a><br>
 ![](https://komarev.com/ghpvc/?username=IBM-Project-54082-1661588854&label=PROFILE+VIEWS) 
-# **👩‍👦TEAM MEMBERS**    
-```html                      
-SURYA R         
-SURYA K       
-SUBASH M         
-KESHAV J             
-``` 
+# IBM-Project-54082-1661588854
+
+|      **Project Name**     | DHL Logistics Facilities |
+|:---------------------:|:------------------------------:|
+|         **Domain**        |  Data Analytics |
+|        **Team ID**        |  PNT2022TMID24413 |
+
+# 👩‍👦TEAM MEMBERS:
+|   **Title**   |      **Name**     |
+|:-----------:|:-----------------:|
+| Team Leader   |    **SURYA R**   |
+| Team Member 1 |    **SURYA K**  |
+| Team Member 2 |   **SUBASH M**  |
+| Team Member 3 |   **KESHAV J** |
 
 # **📜PROJECT DESCRIPTION:**
 ```html
@@ -45,3 +52,8 @@ IBM Cloud, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebo
 
 # Contributions:
 ![Snake animation](https://github.com/SuryaR-25/Snake/blob/main/profile-output/github-contribution-grid-snake.svg)
+
+<div align="center">
+<h2>From the college of Velammal Institute of Technology<br></h2>
+             <h2>Thank You❣️</h2>
+             </div>
