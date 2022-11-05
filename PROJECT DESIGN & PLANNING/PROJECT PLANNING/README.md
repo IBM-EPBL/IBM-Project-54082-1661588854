@@ -1,2 +1,3 @@
-<h3>Dont do the blind copy and post in ur repo change/alter something for better knowledge</h3>
-<h4>Thank you🚶</h4>
+<h2> Project Planning Updated </h2>
+<h6>NOTE: We submitted earlier time of upload change due to updated</h6>
+Thank you🚶
