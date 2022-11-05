@@ -1,5 +1,6 @@
 ## For DHL Logistics the data are downloaded from Kaggle (DHL Courier Facilities Dataset)   
 #### File Format in Excel as (.csv) extension
+The dataset contains the below columns of data. 
 
 | S# | Field Name | Type | Description | 
 |:---------------------:|:---------------------:|:------------------------------:|:---------------------:|
