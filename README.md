@@ -8,6 +8,7 @@
 <img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
 </div>
 
+
 👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
 📱  <b>Team Id: </b>PNT2022TMID24413 <br>
 📫 How to reach Us <a href = "mailto: suryarsrm@gmail.com">Connect with Email</a><br>
