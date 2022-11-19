@@ -1,1 +1,3 @@
-<h1>In Progress</h1>
+
+3 Project development done!
+As per schedule of (project planning and jira sprint schedule)
