@@ -8,6 +8,7 @@
 <img src="https://cdn.dribbble.com/users/2929464/screenshots/5732611/media/9e4c99f2dccc3103c274715ac928490f.gif" align="right" width="240" height="175"/>
 </div>
 
+
 👨🏻‍💻 <b>Technology:</b> DataAnalytics <br>
 📱  <b>Team Id: </b>PNT2022TMID24413 <br>
 📫 How to reach Us <a href = "mailto: suryarsrm@gmail.com">Connect with Email</a><br>
@@ -51,7 +52,7 @@ IBM Cloud, Python, IBM Cognos, IBM Watson DataAnalytics platform, Jupyter Notebo
 [![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](https://github.com/IBM-EPBL/IBM-Project-54082-1661588854/blob/main/LICENSE)
 
 # Final Code:
-To view our Final website [click here](https://github.com/IBM-EPBL/IBM-Project-54082-1661588854/tree/main/FINAL%20DELIVERABLES/FINAL%20CODE)
+To view our Final website [click here](https://dhldata.netlify.app/)
 # Contributions:
 ![Snake animation](https://github.com/SuryaR-25/Snake/blob/main/profile-output/github-contribution-grid-snake.svg)
 
