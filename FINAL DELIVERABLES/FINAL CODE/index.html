@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
   <dataset xmlns="http://developer.cognos.com/schemas/xmldata/1/" xmlns:xs="http://www.w3.org/2001/XMLSchema-instance"> </dataset>
 
-  <title>DHL Logistic- Index</title>
+  <title>DHL Logistic</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -43,15 +43,15 @@
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
           <li><a class="nav-link scrollto" href="#service">Service</a></li>
-          <li><a class="nav-link scrollto" href="#skills">Skills</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
-          <li class="dropdown"><a href="#"><span>Source</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#dashboard"><span>Source</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="#">Dashboard</a></li>
-              <li><a href="#">Story</a></li>
-              <li><a href="#">Report</a></li>
+              <li><a class="nav-link scrollto" href="#dashboard">Dashboard</a></li>
+              <li><a class="nav-link scrollto" href="#report">Report</a></li>
+              <li><a class="nav-link scrollto" href="#story">Story</a></li>
             </ul>
           </li>
+          <li><a class="nav-link scrollto" href="#skills">Skills</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
           <li><a class="nav-link scrollto" href="#contact"> Contact</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -107,20 +107,38 @@
     </section><!-- End About Us Section -->
 
     <!------service section--------->
-    <service id="service" class="service">
+    <section id="service" class="service">
     <div class="container" data-aos="fade-up"> 
       <div class="section-title">
         <h2>Our Service</h2>
       </div>
     <div>
+    </section>
+
+      <section id="dashboard" class="dashboard">
+      <h1>Dashboard</h1>
       <p>
         <iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&amp;pathRef=.my_folders%2FData%2BVisualization%2BCharts&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;mode=dashboard&amp;subView=model00000183e901168b_00000000" width="1120" height="768" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
       </p>
+      </section>
+
+      <section id="report" class="report">
+      <h2>Report</h2>
+      <p>
+        <iframe src="https://us3.ca.analytics.ibm.com/bi/?pathRef=.my_folders%2FDHL%2BReport&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=run&amp;format=HTML&amp;prompt=false" width="1120" height="768" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+      </p>
+      </section>
+
+      <section id="story" class="story">
+      <h3>Story</h3>
+      <p>
+        <iframe src="https://us3.ca.analytics.ibm.com/bi/?perspective=story&amp;pathRef=.my_folders%2FDHL%2Bstory&amp;closeWindowOnLastView=true&amp;ui_appbar=false&amp;ui_navbar=false&amp;shareMode=embedded&amp;action=view&amp;sceneId=model0000018490a6c5d4_00000002&amp;sceneTime=0" width="1120" height="768" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen=""></iframe>
+      </p>
+      </section>
+
+
     </div>
-    </service>
-
-
-
+    </section>
 
     <!-- ======= Skills Section ======= -->
     <section id="skills" class="skills">
@@ -189,6 +207,7 @@
         </div>
 
       </div>
+    </section>
 
     <!-- ======= Team Section ======= -->
     <section id="team" class="team section-bg">
@@ -203,7 +222,7 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="100">
-              <div class="pic"><img src="assets\img\Surya pic.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets\img\team\Surya pic.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>SURYA R</h4>
                 <span>Team Lead</span>
@@ -219,7 +238,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="200">
-              <div class="pic"><img src="assets\img\surya.k.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets\img\team\surya.k.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>SURYA K</h4>
                 <span>Team Member-1</span>
@@ -235,7 +254,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="300">
-              <div class="pic"><img src="assets\img\Subash.M.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets\img\team\Subash.M.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>SUBASH M</h4>
                 <span>Team Member-2</span>
@@ -251,7 +270,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start" data-aos="zoom-in" data-aos-delay="400">
-              <div class="pic"><img src="assets\img\keshav.j-1.jpeg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets\img\team\keshav.j.jpeg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>KESHAV J</h4>
                 <span>Team Member-3</span>
@@ -275,7 +294,7 @@
     <div class="container">
         <div class="row">
             <div class="contact-left">
-                <h1 class="sub-title">Contact Me</h1>
+                <h1 class="sub-title">Contact Us</h1>
                 <p><i class="fas fa-paper-plane"></i>sssknalaiyathiran@gmail.com</p>
                 <div class="social-icons">
                 </div class="btn btn2">
